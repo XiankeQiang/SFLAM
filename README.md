@@ -85,10 +85,10 @@ python SFL_main.py --dataset_name cifar100 --alpha 0.1 --num_clients 100 --num_s
 If you use this project, please cite the following paper:
 
 ```
-@article{your-reference,
-  title={Your Paper Title},
-  author={Your Name},
-  journal={Your Journal},
-  year={2023}
+@article{qiang2025deploying,
+  title={Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning},
+  author={Qiang, Xianke and Liu, Hongda and Zhang, Xinran and Chang, Zheng and Liang, Ying-Chang},
+  journal={arXiv preprint arXiv:2504.09114},
+  year={2025}
 }
 ```
