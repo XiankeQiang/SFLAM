@@ -1,6 +1,6 @@
 # Deploying Large AI Models on Resource-Limited Devices with Split Federated Learning
 
-SFLAM (Split Federated Learning with Attention Mechanism) is a framework based on split federated learning that divides the ViT model into client and server parts, training them collaboratively. 
+SFLAM (Quantized Split Federated Fine-Tuning Large AI Model) is a framework based on split federated learning that divides the ViT model into client and server parts, training them collaboratively. 
 
 ### Key Features
 
